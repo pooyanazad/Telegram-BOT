@@ -14,7 +14,7 @@
    - It'll give you a token like this: **93453534:hiy73hrkjw43j4k5h3k5uy34vhtk34u8**
 
 
-2. Make a group and assign it to your group like image: "![ALT test](https://ibb.co/645KSDq)"
+2. Make a group and assign it to your group like image: "https://ibb.co/645KSDq)"
  
 3. Import telegram bot in your python (paste it in "**CMD**")
 ```
