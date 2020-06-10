@@ -4,12 +4,11 @@
 **This project helps you to have a telegram bot to send some message to your group members:**
 
 1-Go to "https://telegram.me/BotFather"
-	Click on start 
-	Click on /newbot
-	Choose a name and id (name should be unique and end with "bot")
-	It'll give you a token like this:
-		9***9587*:**EGbcTK3UzV*****gcIP54Nb25qK*****
-		It doesn't have (*)
+Click on start 
+Click on /newbot
+Choose a name and id (name should be unique and end with "bot")
+It'll give you a token like this:
+93453534:hiy73hrkjw43j4k5h3k5uy34vhtk34u8
 
 2-Make a group and assign it to your group like below image
  
