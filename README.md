@@ -5,7 +5,7 @@
 
 1. Go to **"https://telegram.me/BotFather"**
 
-   - Click on "**start **"
+   - Click on "**start**"
 
    - Click on "**/newbot**"
 
