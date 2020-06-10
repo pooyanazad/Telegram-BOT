@@ -23,7 +23,7 @@ pip install python-telegram-bot --upgrade**
 
 4. Clone this project
 
-   - Make a folder in you "**C**" drive with this name: "**C:\Your_Bot**" and put files there
+   - Make a folder in you "**C**" drive with this name: "**C:/Your_Bot**" and put files there
 
    - You should put your token in yellow highlight like image: "https://ibb.co/sj9bzk2"
  
