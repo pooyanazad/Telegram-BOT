@@ -34,4 +34,4 @@ pip install python-telegram-bot --upgrade**
 
 6. Execute "**send_message.py**" to send everything you saved in "**Message.txt**" to all you channel members
 
-*Good luck*
+***Good luck***
