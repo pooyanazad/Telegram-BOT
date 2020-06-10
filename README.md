@@ -1,6 +1,6 @@
 # Telegram-BOT
-### Hi everyone
-This project helps you to have a telegram bot to send some message to your group members:
+#### Hi everyone
+**This project helps you to have a telegram bot to send some message to your group members:
 
 1-Go to "https://telegram.me/BotFather"
 	Click on start 
@@ -24,4 +24,4 @@ This project helps you to have a telegram bot to send some message to your group
 
 6-Execute "send_message.py" to send everything you saved in "Message.txt" to all you channel members
 
-Good luck
+*Good luck
