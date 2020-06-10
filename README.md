@@ -18,8 +18,9 @@
 ![token](https://ibb.co/sj9bzk2)
  
 3. Import telegram bot in your python (paste it in "**CMD**")
-
-   - **pip install python-telegram-bot --upgrade**
+'''
+pip install python-telegram-bot --upgrade**
+'''
 
 4. Clone this project
 
