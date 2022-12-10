@@ -8,3 +8,6 @@ for each in ids:
 with open('c://Your_Bot/ids_DB.txt','w') as f:
     for i in list_ids:
         f.write(str(i)+'\n')
+with open('c://Your_Bot/ids_DB.txt','w') as f:
+    for i in list_ids:
+        f.write(str(i)+'\n')
