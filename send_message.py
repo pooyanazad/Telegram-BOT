@@ -24,6 +24,3 @@ message.close()
 DB.close()
 
 print('********Proccess finished********')
-with open('c://Your_Bot/ids_DB.txt','w') as f:
-    for i in list_ids:
-        f.write(str(i)+'\n')
