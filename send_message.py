@@ -1,6 +1,6 @@
 import telegram
 print('++Start connecting...\n')
-bot=telegram.Bot(token='9***9587*:**EGbcTK3UzV*****gcIP54Nb25qK*****')
+bot=telegram.Bot(token='9***9587*:**EGbcTK3UzV*****gcIPNbfd25qK*****')
 print('++Connecting complete.\n','*'*30)
 
 
